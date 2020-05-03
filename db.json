@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "email@google.com",
+      "password": "password",
+      "firstName": "Teo",
+      "lastName": "Teo"
+    },
+    {
+      "email": "asda@asd.com",
+      "password": "sdfsa"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "New post",
+      "description": "gdasgas",
+      "userId": 1
+    }
+  ]
+}
